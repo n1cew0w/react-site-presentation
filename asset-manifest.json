@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-site-presentation/static/css/main.f2c3ea6d.css",
+    "main.js": "/react-site-presentation/static/js/main.48e353c0.js",
+    "static/media/OG BUDA - ТГК (ПРЕМЬЕРА КЛИПА, 2022).mp4": "/react-site-presentation/static/media/OG BUDA - ТГК (ПРЕМЬЕРА КЛИПА, 2022).4c8b714e29e2dbd52013.mp4",
+    "static/media/OG Buda - Грязный (feat. Scally Milano & 163ONMYNECK).mp4": "/react-site-presentation/static/media/OG Buda - Грязный (feat. Scally Milano & 163ONMYNECK).38f6491f931e5b3c8b80.mp4",
+    "static/media/OG Buda & 163ONMYNECK — На кассе (Премьера клипа).mp4": "/react-site-presentation/static/media/OG Buda & 163ONMYNECK — На кассе (Премьера клипа).cf1173c39420a93e6af1.mp4",
+    "static/media/OG Buda - Откровения (feat. Feduk).mp4": "/react-site-presentation/static/media/OG Buda - Откровения (feat. Feduk).8969b33339829511134a.mp4",
+    "index.html": "/react-site-presentation/index.html",
+    "main.f2c3ea6d.css.map": "/react-site-presentation/static/css/main.f2c3ea6d.css.map",
+    "main.48e353c0.js.map": "/react-site-presentation/static/js/main.48e353c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c3ea6d.css",
+    "static/js/main.48e353c0.js"
+  ]
+}
