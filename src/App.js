@@ -1,5 +1,5 @@
 import "./App.css";
-import PlayPauseVideo from "./components/hooks/PlayPauseVideo";
+import PlayPauseVideo from "./components/PlayPauseVideo";
 
 
 const App = () => {

@@ -1,3 +1,15 @@
 .text-main {
     font-family: 'VT323', monospace;
 }
+#axis:hover .move-down {
+
+}
+.hideButton{
+opacity: 0;
+    transition: 2s;
+
+}
+.showButton{
+    opacity:1;
+    transition: 4s;
+}
